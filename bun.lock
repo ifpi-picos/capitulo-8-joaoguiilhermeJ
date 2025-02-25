@@ -1,0 +1,13 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "convert": "^5.8.0",
+      },
+    },
+  },
+  "packages": {
+    "convert": ["convert@5.8.0", "", {}, "sha512-wGOO0Pq07fWV6EL7ITasbZB71NCilKU2XiCntx5P5KzLQeEafyaPJgfBSIGdAa2TgkM5yDOyg37EpH0GwyEmpA=="],
+  }
+}

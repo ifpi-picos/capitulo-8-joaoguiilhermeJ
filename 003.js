@@ -1,0 +1,6 @@
+const operacoes = require ('./modulos/modulo03')
+console.log(operacoes.soma(5, 9))
+console.log(operacoes.subtracao(7, 3))
+console.log(operacoes.multiplicacao(6, 9))
+console.log(operacoes.divisao(81, 9))
+console.log(operacoes.expone(3, 6))
